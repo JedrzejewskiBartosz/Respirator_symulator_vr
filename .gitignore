@@ -14,6 +14,9 @@
 [Rr]ecordings/
 ExportedObj/
 
+# Unity AI Assistant package files in Packages (pobierany z manifest.json)
+Packages/com.unity.ai.assistant/
+
 # Unity Asset Server cache
 AssetServerCache/
 
